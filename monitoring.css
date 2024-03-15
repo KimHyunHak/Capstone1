@@ -1,0 +1,30 @@
+.monitoring_page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 3rem 0 3rem;
+  flex-wrap: wrap;
+}
+
+.monitoring_page > h1 {
+  margin-top: 3rem;
+  margin-bottom: 4.5rem;
+}
+
+#video {
+  border: 2px solid red;
+  margin: 0 auto;
+  text-align: center;
+  width: 58vw;
+  height: 50vh;
+  line-height: 50vh;
+}
+
+@media screen and (max-width: 431px) {
+  #video {
+    width: 78vw;
+    height: 40vh;
+    line-height: 40vh;
+  }
+}

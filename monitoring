@@ -1,0 +1,6 @@
+<div class="monitoring_page">
+  <h1>Monitoring</h1>
+  <div id="video" style="font-size: x-large; font-weight: 800;">
+    비디오 나올 위치
+  </div>
+</div>

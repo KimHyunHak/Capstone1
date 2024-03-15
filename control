@@ -1,0 +1,18 @@
+<div class="control_page">
+  <h1>Control</h1>
+  <div class="direction_wrapper">
+    <h2>Direction</h2>
+    <br>
+    <button>&#8678;</button>
+    <button>&#8680;</button>
+  </div>
+  <br>
+  <div class="division_line"></div>
+  <br>
+  <div class="speed_wrapper">
+    <h2>Speed</h2>
+    <br>
+    <button>&#8679;</button>
+    <button>&#8681;</button>
+  </div>
+</div>
