@@ -9,6 +9,14 @@
   <br>
   <div class="division_line"></div>
   <br>
+  <div class=rotation_wrapper>
+    <h2>Rotation</h2>
+    <br>
+    <button>&#8635;</button>
+  </div>
+  <br>
+  <div class="division_line"></div>
+  <br>
   <div class="speed_wrapper">
     <h2>Speed</h2>
     <br>
