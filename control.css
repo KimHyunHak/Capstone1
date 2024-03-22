@@ -34,6 +34,7 @@
 .rotation_wrapper > button {
   font-size: 2.9rem;
   font-weight: 100;
+  padding-bottom: 0;
 }
 
 .control_page button:active {
